@@ -11,7 +11,7 @@ Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliğinde yapılmış olan s�
 
 - Tüm projeler okul derslerinde verilen ödev, quiz veya sınıf içi çalışmalardır.
 - Projelerin çalışma yapıları istenilen ödevlere göre yapılmıştır. İçeriklerini dosyaların yanındaki pdf dosyalarından okuyabilirsiniz.
-- Bir çoğu kısa zamanda kodlandığı için mantıksal veya yazılımsal hatalar olabilir. 
+- Bir çoğu kısa zamanda kodlandığı için mantıksal hatalar olabilir. 
 - Kodların açıklamaları mevcuttur.
 - İstediğiniz gibi değiştirip kullanabilirsiniz.
 - Tüm ödevlerden tam puan alınmıştır.
