@@ -1,0 +1,3 @@
+Input file size : 10693 byte - 85544 bit
+ Output file size : 3561 byte - 28488 bit
+ Work time : 14 msec.
